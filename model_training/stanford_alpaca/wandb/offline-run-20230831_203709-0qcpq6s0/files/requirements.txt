@@ -11,7 +11,7 @@ charset-normalizer==3.2.0
 click==8.1.6
 cmake==3.27.2
 datasets==2.14.4
-deepspeed==0.10.0
+deepspeed==0.15.1
 dill==0.3.7
 docker-pycreds==0.4.0
 filelock==3.12.2

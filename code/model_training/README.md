@@ -4,7 +4,7 @@ Code is for fine-tuning Alpaca and Llama2 from https://github.com/tatsu-lab/stan
 2. Do: pip install -r requirements.txt 
 3. pip install deepspeed
 4. pip install accelerator
-5. Run model_trainer.sh
+5. Run model_trainer.sh under the stanford_alpaca directory
 
 Note:
 a. In model_trainer.sh
